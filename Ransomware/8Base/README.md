@@ -28,14 +28,14 @@ It appends encrypted files with the extension “.8base”. Uses AES to Encrypt 
 |23  | 5d0f447f4ccc89d7d79c0565372195240cdfa25f  | SHA-1  |  - |
 
 
-Knowledge Base: 
-Network Share Discovery -> WNetEnumResource() 
-"Obfuscated File or Information-> SmokeLoader" 
-"wmic shadowcopy delete"
-"wbadmin delete catalog -quiet"
-"vssadmin delete shadows /all /quiet"
-"bcdedit /set {default} recoveryenabled no"
-"bcdedit /set {default} bootstatuspolicy ignoreallfailures"
+Knowledge Base:</br>
+Network Share Discovery -> WNetEnumResource()</br> 
+"Obfuscated File or Information-> SmokeLoader" </br>
+"wmic shadowcopy delete"</br>
+"wbadmin delete catalog -quiet"</br>
+"vssadmin delete shadows /all /quiet"</br>
+"bcdedit /set {default} recoveryenabled no"</br>
+"bcdedit /set {default} bootstatuspolicy ignoreallfailures"</br>
 
 
 
