@@ -1,4 +1,6 @@
 # IOCs
+Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups.
+
 | S.No | Ransomware (IOCs) | Link |
 |:----:|:------------------|:-----|
 |1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
