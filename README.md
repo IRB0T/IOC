@@ -1,4 +1,15 @@
 # IOCs
+| S.No | Ransomware (IOCs) | Link |
+|:----:|:------------------|:-----|
+|1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
+|2|BlackCat| https://github.com/IRB0T/IOC/tree/main/Ransomware/BlackCat |
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
 | S.No | Vulnerability            | CVE   | Link |
 |:-----:|:----------------|:---------|:--------------------|
 |1  | MOVEit  | CVE-2023-34362 | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/MOVEit%20Transfer  |
@@ -11,7 +22,3 @@
 
 
 
-| S.No | Ransomware (IOCs) | Link |
-|:----:|:------------------|:-----|
-|1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
-|2|BlackCat| https://github.com/IRB0T/IOC/tree/main/Ransomware/BlackCat |
