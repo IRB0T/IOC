@@ -6,3 +6,12 @@
 |3 | FortiOS SSL-VPN vulnerability | CVE-2022-42475 | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/FortiOS%20SSL-VPN%20-%20CVE-2022-42475 |
 |4 | VMware Aria Operations for Networks vulnerability | CVE-2023-20887  | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/VMware%20Aria%20Operations%20Networks%20-%20CVE-2023-20887 |
 |5 | "Ultimate Member" WordPress plugin vulnerability | CVE-2023-3460  | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/Ultimate%20Member%20WordPress%20plugin%20-%20CVE-2023-3460 |
+
+
+
+
+
+| S.No | Ransomware (IOCs) | Link |
+|:----:|:------------------|:-----|
+|1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
+|2|BlackCat| https://github.com/IRB0T/IOC/tree/main/Ransomware/BlackCat |
