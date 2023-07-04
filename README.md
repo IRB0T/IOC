@@ -7,6 +7,7 @@ Our objective is to update the indicators-of-compromise based on published repor
 |:----:|:------------------|:-----|
 |1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
 |2|BlackCat| https://github.com/IRB0T/IOC/tree/main/Ransomware/BlackCat |
+|3|Play|https://github.com/IRB0T/IOC/tree/main/Ransomware/Play |
 
 </br>
 </br>
