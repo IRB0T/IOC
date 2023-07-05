@@ -3,6 +3,14 @@ Royal Ransomware
 Encrypted files will have file extension as ".royal " 
 Royal ransomware uses a unique partial encryption approach that allows the threat actor to choose a specific percentage of data in a file to encrypt.
 
+Knowledge Base:</br>
+Initial Access: Phishing,Remote Desktop Protocol,Public-facing applications,Brokers </br>
+Tunneling : Utilize "Chisel" tools: which is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH </br>
+Lateral Movement: PsExec  </br>
+persistence: AnyDesk, LogMeIn, Atera for  </br>
+Data Exfiltration: Cobalt Strike,Ursnif/Gozi </br>
+vssadmin.exe to delete volume Shadow Copy</br>
+
 | S.No | Indicator            | Type   | Comment |
 |:-----:|:----------------|:---------|:--------------------|
 |1  |C:\Temp\ | Folder Location  |  Check for any suspicious or unusual files in the given Location |
@@ -82,16 +90,6 @@ Royal ransomware uses a unique partial encryption approach that allows the threa
 |75|f484f919ba6e36ff33e4fb391b8859a94d89c172a465964f99d6113b55ced429 |SHA256  |  - |
 |76|7cbfea0bff4b373a175327d6cc395f6c176dab1cedf9075e7130508bec4d5393 |SHA256  |  - |
 |77|2598e8adb87976abe48f0eba4bbb9a7cb69439e0c133b21aee3845dfccf3fb8f |SHA256  |  - |
-
-
-
-Knowledge Base:</br>
-Initial Access: Phishing,Remote Desktop Protocol,Public-facing applications,Brokers </br>
-Utilize "Chisel" tools: which is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH </br>
-PsExec for Lateral Movement</br>
-AnyDesk, LogMeIn, Atera for persistence </br>
-Cobalt Strike,Ursnif/Gozi for Data Exfiltration </br>
-vssadmin.exe to delete volume Shadow Copy</br>
 
 </br>
 Note: Before blocking any IP Address, Please investigate it </br>
