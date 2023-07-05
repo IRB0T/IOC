@@ -7,7 +7,7 @@ Knowledge Base:</br>
 Initial Access: Phishing,Remote Desktop Protocol,Public-facing applications,Brokers </br>
 Tunneling : Utilize "Chisel" tools: which is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH </br>
 Lateral Movement: PsExec  </br>
-persistence: AnyDesk, LogMeIn, Atera for  </br>
+persistence: AnyDesk, LogMeIn, Atera </br>
 Data Exfiltration: Cobalt Strike,Ursnif/Gozi </br>
 vssadmin.exe to delete volume Shadow Copy</br>
 
