@@ -93,9 +93,9 @@ AnyDesk, LogMeIn, Atera for persistence </br>
 Cobalt Strike,Ursnif/Gozi for Data Exfiltration </br>
 vssadmin.exe to delete volume Shadow Copy</br>
 
-
+</br>
 Note: Before blocking any IP Address, Please investigate it </br>
-
-Reference:
+</br>
+Reference:</br>
 1.https://www.cisa.gov/sites/default/files/2023-03/aa23-061a-stopransomware-royal-ransomware_0.pdf
 2.https://www.cybereason.com/blog/royal-ransomware-analysis
