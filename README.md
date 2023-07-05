@@ -1,6 +1,10 @@
 # IOCs
 
 Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups.
+#tactics
+#techniques
+#procedures
+#indicators of compromise (IOCs)
 ======
 
 | S.No | Ransomware (IOCs) | Link |
@@ -8,6 +12,7 @@ Our objective is to update the indicators-of-compromise based on published repor
 |1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
 |2|BlackCat| https://github.com/IRB0T/IOC/tree/main/Ransomware/BlackCat |
 |3|Play|https://github.com/IRB0T/IOC/tree/main/Ransomware/Play |
+|3|Royal|https://github.com/IRB0T/IOC/tree/main/Ransomware/Royal |
 
 </br>
 </br>
