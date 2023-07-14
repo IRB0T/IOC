@@ -1,6 +1,6 @@
-#IOCs
+# IOCs
 </h3>Our objective is to provide the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups. Additionally we have included How to detect different Exploits that Threat Actors commonly used in Post-Exploitation Phase</h3>
-======
+
 <h4>tactics</h4>
 <h4>techniques</h4>
 <h4>procedures</h4>
@@ -12,7 +12,6 @@ Detection Knowledge Base
 |:----:|:------------------|:-----|
 |1|Zerologon| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/Zerologon |
 |2|PsExec Execution| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/PsExec%20-%20Execution |
-======
 
 </br></br>
 
@@ -22,8 +21,8 @@ Ransomware-IOCs
 |1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
 |2|BlackCat| https://github.com/IRB0T/IOC/tree/main/Ransomware/BlackCat |
 |3|Play|https://github.com/IRB0T/IOC/tree/main/Ransomware/Play |
-|3|Royal|https://github.com/IRB0T/IOC/tree/main/Ransomware/Royal |
-======
+|4|Royal|https://github.com/IRB0T/IOC/tree/main/Ransomware/Royal |
+
 </br></br>
 
 Vulnerabilities-IOCs
