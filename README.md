@@ -1,10 +1,10 @@
-</h1>IOCs</h1>
-</h3>Our objective is to provide the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups. Additionally we have included How to detect different Exploits that Threat Actors commonly used in Post-Exploitation Phase</h3>
-</br>
-</h4>tactics</h4></br>
-</h4>techniques</h4></br>
-</h4>procedures</h4></br>
-</h4>indicators of compromise (IOCs)</h4>
+#IOCs
+##Our objective is to provide the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups. Additionally we have included How to detect different Exploits that Threat Actors commonly used in Post-Exploitation Phase
+
+###tactics
+###techniques
+###procedures
+###indicators of compromise (IOCs)
 </br></br>
 
 Detection Knowledge Base
