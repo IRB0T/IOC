@@ -1,13 +1,23 @@
 # IOCs
 
-Our objective is to update the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups.
+Our objective is to provide the indicators-of-compromise based on published reports for Zero-Day Vulnerability and Ransomware groups. Additionally we have included How to detect different Exploits that Threat Actors commonly used in Post-Exploitation Phase. 
 ======
-#tactics
+#tactics#
 #techniques
 #procedures
 #indicators of compromise (IOCs)
 </br></br>
 
+Detection Knowledge Base
+| S.No | Ransomware (IOCs) | Link |
+|:----:|:------------------|:-----|
+|1|Zerologon| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/Zerologon |
+|2|PsExec Execution| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/PsExec%20-%20Execution |
+
+
+</br></br>
+
+Ransomware-IOCs
 | S.No | Ransomware (IOCs) | Link |
 |:----:|:------------------|:-----|
 |1|8base| https://github.com/IRB0T/IOC/tree/main/Ransomware/8Base |
@@ -15,9 +25,9 @@ Our objective is to update the indicators-of-compromise based on published repor
 |3|Play|https://github.com/IRB0T/IOC/tree/main/Ransomware/Play |
 |3|Royal|https://github.com/IRB0T/IOC/tree/main/Ransomware/Royal |
 
-</br>
-</br>
+</br></br>
 
+Vulnerabilities-IOCs
 | S.No | Vulnerability            | CVE   | Link |
 |:-----:|:----------------|:---------|:--------------------|
 |1  | MOVEit  | CVE-2023-34362 | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/MOVEit%20Transfer  |
