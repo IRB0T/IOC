@@ -1,6 +1,6 @@
 ## WMI || Windows Management Instrumentation
-</br>
-### Knowledge Base
+
+#### Overview
 “Windows Management Instrumentation Event Subscription” is MITRE ATT&CK Technique T1084
 WMI is the Microsoft implementation of Web-Based Enterprise Management (WBEM)
 </br>
@@ -12,7 +12,7 @@ WMI is the Microsoft implementation of Web-Based Enterprise Management (WBEM)
 
 
 
-#### Suggestions
+#### KB
 Sysmon can be configured to log WmiEventFilter, WmiEventConsumer, and WmiEventConsumerToFilter activity and enable the detection of WMI abuse. ( Event ID : 19,20,21) </br>
 Registered a WMI event filter</br>
 Registered a WMI event consumer</br>
