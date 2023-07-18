@@ -28,7 +28,7 @@ WmiPrvse.exe,
 |3|List all Running services| Get-WmiObject -Query \"SELECT \* FROM Win32_Service where State = \'Running\'\"|--|--|
 |4|Processor Architecture| Get-WmiObject -Query \"Select OSArchitecture FROM win32_OperatingSystem\"|--|--|
 |5|Get Make,Model of machine| Get-WmiObject -Query \"Select \* FROM Win32_ComputerSystem\"|--|--|
-|6|Logged-on accounts| Get-WmiObject -Class Win32_ComputerSystem | Select-Object UserName| Get-WmiObject -Query "Select UserName FROM Win32_ComputerSystem"|--|
+|6|Logged-on accounts| Get-WmiObject -Class Win32_ComputerSystem \\| Select-Object UserName| Get-WmiObject -Query "Select UserName FROM Win32_ComputerSystem"|--|
 
 Reference:</br>
 1. https://medium.com/threatpunter/detecting-removing-wmi-persistence-60ccbb7dff96
