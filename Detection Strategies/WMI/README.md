@@ -19,6 +19,10 @@ Registered a WMI event consumer</br>
 Bound the event consumer to the event filter</br>
 WmiPrvse.exe,
 
+#### Basic Commands To Do Different activity utilizing WMI.
+|#|Event|Command-1|Command-2|Additional Details|
+|:-----:|:----------------|:---------|:--------------------|:--------------------|
+|1|Check For Installed Antivirus on local Machine|Get-WmiObject -Namespace root\SecurityCenter2 -Class AntiVirusProduct|Get-WmiObject -Namespace root\SecurityCenter2 -computername localhost -Query \"Select \* from AntiVirusProduct\"|--|
 
 Reference:</br>
 1. https://medium.com/threatpunter/detecting-removing-wmi-persistence-60ccbb7dff96
