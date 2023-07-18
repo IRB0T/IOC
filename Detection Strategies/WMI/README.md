@@ -23,6 +23,7 @@ WmiPrvse.exe,
 |#|Event|Command-1|Command-2|Additional Details|
 |:-----:|:----------------|:---------|:--------------------|:--------------------|
 |1|Check For Installed Antivirus on local Machine|Get-WmiObject -Namespace root\SecurityCenter2 -Class AntiVirusProduct|Get-WmiObject -Namespace root\SecurityCenter2 -computername localhost -Query \"Select \* from AntiVirusProduct\"|--|
+|2|File Listing|Get-WmiObject -Query \"Select \* From Win32_Directory where Path = \'\\Users\\IR4N6\\Downloads\\Tools\\\'"|--|--|
 
 Reference:</br>
 1. https://medium.com/threatpunter/detecting-removing-wmi-persistence-60ccbb7dff96
