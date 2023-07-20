@@ -7,7 +7,11 @@ WMI is the Microsoft implementation of Web-Based Enterprise Management (WBEM)
 
 |S.No|What To Look|Event ID|Source|Additional Details|
 |:-----:|:----------------|:---------|:--------------------|:--------------------|
-|1|--|--|--|--|
+|1|(source machine)In security event logs check for event id 4648 "A logon was attempted using explicit creationdentials, check for Process name (wbem\WMIC.exe)|4648|security.evtx|--|
+|2|(source machine)if sysmon is utilized by organization then check for event id 1. "process creation" and look for keywords like "wmic, wmic.exe" |1|sysmon/Operational|--|
+|2|(Destination machine) check for "wmiprvse.exe" in process creation. |4688|security.evtx|--|
+|3|In WMI-activity Operational logs check for event id 5861 for permanent event consumer creation event.|5861|Microsoft-Windows-WMI-Activity/Operational.evtx|--|
+|4|If trace logs are enable then check for event id 11 that will help you to identify username, command and remote box from where someone made connection to this system.|11|Tracelogs|--|
 
 
 
