@@ -8,6 +8,7 @@ Execute a command-line process on a remote machine.
 |1  | Check for Event Id 7045 in system Event log and check for the Service Name "PSEXESVC"  |  7045 | system.evtx  | -- |
 |2  | Parse UsnJrnl ($J) file and Check for Keyword "PsExec". You will find entry with extension ".KEY" and in same entry you will able to see "HOSTNAME" of the target system from where it was initiated. (Co-relate timestamp of UsnJrnl entry and System event id 7045.)   |  - | UsnJrnl  | -- |
 |3  | Parse prefetch files and Check for Keyword "PsExec". You will able to see "HOSTNAME" of the target system from where it was initiated   |  - | prefetch | -- |
+|4  | Check for event id "4697" (A service was installed in the system)   |  4697 | Security.evtx | -- |
 
 </br>
 Knowledge Base:</br>
