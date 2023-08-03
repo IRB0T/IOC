@@ -7,11 +7,14 @@
 ##### indicators of compromise (IOCs)
 </br></br>
 
-Detection Knowledge Base || If we want to get good at detecting anything we need to know exactly what we need to collect.
+If We Want To Get Good At Detecting Anything We Need To Know Exactly What We Need To Collect || Detection Knowledge Base || 
 | S.No | Detection Strategies | Link |
 |:----:|:------------------|:-----|
 |1|Zerologon| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/Zerologon |
 |2|PsExec Execution| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/PsExec%20-%20Execution |
+|3|WMI| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/WMI |
+|4|ProxyShell| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/ProxyShell |
+|5|PowerShell| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/PowerShell |
 
 </br></br>
 
