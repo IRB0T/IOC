@@ -7,7 +7,7 @@
 ##### indicators of compromise (IOCs)
 </br></br>
 
-Detection Knowledge Base
+Detection Knowledge Base || If we want to get good at detecting anything we need to know exactly what we need to collect.
 | S.No | Ransomware (IOCs) | Link |
 |:----:|:------------------|:-----|
 |1|Zerologon| https://github.com/IRB0T/IOC/tree/main/Detection%20Strategies/Zerologon |
