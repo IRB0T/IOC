@@ -3,7 +3,7 @@ Rhysida Ransomware
 Encrypted files will have file extension as ".rhysida" 
 This Ransomware arrives on a system as a file dropped by other malware or as a file downloaded unknowingly by users when visiting malicious sites.
 </br>It drops the following file(s) as ransom note:</br>
-CriticalBreachDetected.pdf
+<ul><li>CriticalBreachDetected.pdf</ul></li>
 
 Knowledge Base:</br>
 
