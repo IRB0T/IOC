@@ -6,18 +6,11 @@ This Ransomware arrives on a system as a file dropped by other malware or as a f
 CriticalBreachDetected.pdf
 
 Knowledge Base:</br>
-Initial Access: Phishing,Remote Desktop Protocol,Public-facing applications,Brokers </br>
-Tunneling : Utilize "Chisel" tools: which is a fast TCP/UDP tunnel, transported over HTTP, secured via SSH </br>
-Lateral Movement: PsExec  </br>
-persistence: AnyDesk, LogMeIn, Atera </br>
-Data Exfiltration: Cobalt Strike,Ursnif/Gozi </br>
-vssadmin.exe to delete volume Shadow Copy</br>
+
 
 | S.No | Indicator            | Type   | Comment |
 |:-----:|:----------------|:---------|:--------------------|
 |1  |C:\Temp\ | Folder Location  |  Check for any suspicious or unusual files in the given Location |
-
-|77|2598e8adb87976abe48f0eba4bbb9a7cb69439e0c133b21aee3845dfccf3fb8f |SHA256  |  - |
 
 </br>
 Note: Before blocking any IP Address, Please investigate it </br>
