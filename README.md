@@ -39,6 +39,7 @@ Vulnerabilities-IOCs
 |6 | RCE in NetScaler (formerly Citrix)| CVE-2023-3519  | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/Citrix%20CVE-2023-3519 |
 |7 | Microsoft Office Zero-day HTML Vulnerability| CVE-2023-36884  | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/Microsoft%20Office%20Zero-day%20HTML%20Vulnerability%20-%20CVE-2023-36884 |
 |8 | Openfire Path traversal vulnerability| CVE-2023-32315  | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/Openfire%20CVE-2023-32315 |
+|9 | JetBrains TeamCity authentication bypass vulnerability| CVE-2023-42793  | https://github.com/IRB0T/IOC/tree/main/Zero-Day%20Vulnerability%20IOC/JetBrains_TeamCity%20-%20CVE-2023-42793 |
 
 
 
